@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "n_patients": 260,
+  "issue_rate_target": 0.0015,
+  "sources": {
+    "ehr_export.csv": {
+      "rows": 473,
+      "injected_issues": 2
+    },
+    "lab_results.csv": {
+      "rows": 486,
+      "injected_issues": 3
+    },
+    "billing_claims.csv": {
+      "rows": 447,
+      "injected_issues": 0
+    }
+  },
+  "total_rows": 1406,
+  "total_injected_issues": 5
+}

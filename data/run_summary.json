@@ -1,0 +1,42 @@
+{
+  "quality_report": {
+    "sources": {
+      "ehr": {
+        "total_records": 473,
+        "passed": 472,
+        "failed": 1,
+        "accuracy_pct": 99.789,
+        "failure_reasons": {
+          "invalid_visit_date": 1
+        }
+      },
+      "lab": {
+        "total_records": 486,
+        "passed": 483,
+        "failed": 3,
+        "accuracy_pct": 99.383,
+        "failure_reasons": {
+          "non_numeric_result_value": 1,
+          "duplicate_sample_id": 2
+        }
+      },
+      "billing": {
+        "total_records": 447,
+        "passed": 447,
+        "failed": 0,
+        "accuracy_pct": 100.0,
+        "failure_reasons": {}
+      }
+    },
+    "total_records": 1406,
+    "total_passed": 1402,
+    "total_failed": 4,
+    "overall_accuracy_pct": 99.716
+  },
+  "load_stats": {
+    "patients_loaded": 260,
+    "encounters_loaded": 472,
+    "lab_results_loaded": 483,
+    "claims_loaded": 447
+  }
+}

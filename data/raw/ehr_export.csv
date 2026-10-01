@@ -1,0 +1,474 @@
+visit_id,patient_mrn,patient_first,patient_last,patient_dob,patient_gender,visit_date,diagnosis_code,visit_type,attending_provider
+EHR-000001,MRN100001,Daniel,Brown,1937-03-30,F,2024-06-10,E11,Urgent Care,Dr. D. Ibrahim
+EHR-000002,MRN100002,Linda,Davis,1947-07-09,M,2024-06-14,M54.5,Urgent Care,Dr. G. Okafor
+EHR-000003,MRN100003,Nancy,Moore,1942-10-19,F,2023-10-01,M54.5,Urgent Care,Dr. F. Weiss
+EHR-000004,MRN100004,Mary,Smith,1943-05-29,M,2023-01-30,I10,Follow-Up,Dr. F. Weiss
+EHR-000005,MRN100004,Mary,Smith,1943-05-29,M,2023-11-15,J45.909,Office Visit,Dr. B. Carter
+EHR-000006,MRN100005,Linda,Taylor,1989-01-03,M,2023-05-01,E78.5,Annual Physical,Dr. E. Flores
+EHR-000007,MRN100006,Sarah,Miller,1999-03-28,F,2024-05-09,N18.3,Telehealth,Dr. B. Carter
+EHR-000008,MRN100006,Sarah,Miller,1999-03-28,F,2023-07-15,N18.3,Follow-Up,Dr. G. Okafor
+EHR-000009,MRN100007,Linda,Anderson,1987-11-13,F,2024-02-29,K21.9,Annual Physical,Dr. G. Okafor
+EHR-000010,MRN100008,Betty,Smith,2003-01-28,M,2023-11-02,K21.9,Urgent Care,Dr. G. Okafor
+EHR-000011,MRN100009,Matthew,Wilson,1965-07-11,F,2024-07-05,E78.5,Telehealth,Dr. D. Ibrahim
+EHR-000012,MRN100010,John,Miller,2003-07-01,F,2023-07-13,F41.1,Urgent Care,Dr. B. Carter
+EHR-000013,MRN100010,John,Miller,2003-07-01,F,2023-02-14,N18.3,Urgent Care,Dr. D. Ibrahim
+EHR-000014,MRN100011,Patricia,Williams,1969-01-31,M,2023-02-07,E78.5,Annual Physical,Dr. G. Okafor
+EHR-000015,MRN100012,Barbara,Lopez,1989-02-28,F,2023-04-13,E78.5,Follow-Up,Dr. D. Ibrahim
+EHR-000016,MRN100013,Betty,Johnson,2000-06-19,F,2024-04-25,I10,Telehealth,Dr. F. Weiss
+EHR-000017,MRN100014,Sarah,Brown,1968-12-16,M,2023-12-03,I10,Urgent Care,Dr. C. Patel
+EHR-000018,MRN100014,Sarah,Brown,1968-12-16,M,2024-07-08,E78.5,Annual Physical,Dr. B. Carter
+EHR-000019,MRN100015,Sarah,Martinez,1991-05-26,F,2023-04-11,N18.3,Office Visit,Dr. D. Ibrahim
+EHR-000020,MRN100016,Charles,Miller,1998-03-18,M,2023-01-30,K21.9,Annual Physical,Dr. C. Patel
+EHR-000021,MRN100017,Mary,Davis,2004-05-09,F,2023-05-30,N18.3,Follow-Up,Dr. B. Carter
+EHR-000022,MRN100017,Mary,Davis,2004-05-09,F,2023-03-22,J45.909,Follow-Up,Dr. D. Ibrahim
+EHR-000023,MRN100018,Robert,Davis,1944-01-23,F,2023-08-26,J45.909,Annual Physical,Dr. F. Weiss
+EHR-000024,MRN100018,Robert,Davis,1944-01-23,F,2024-04-21,E11.9,Follow-Up,Dr. A. Nguyen
+EHR-000025,MRN100018,Robert,Davis,1944-01-23,F,2023-12-20,E78.5,Urgent Care,Dr. F. Weiss
+EHR-000026,MRN100019,William,Anderson,1992-01-12,F,2023-11-06,E78.5,Urgent Care,Dr. A. Nguyen
+EHR-000027,MRN100019,William,Anderson,1992-01-12,F,2024-01-26,M54.5,Annual Physical,Dr. A. Nguyen
+EHR-000028,MRN100020,Jennifer,Lopez,1966-11-15,M,2023-01-09,K21.9,Office Visit,Dr. E. Flores
+EHR-000029,MRN100020,Jennifer,Lopez,1966-11-15,M,2023-10-21,E78.5,Annual Physical,Dr. B. Carter
+EHR-000030,MRN100021,Nancy,Rodriguez,1997-12-18,M,2023-09-14,R07.9,Follow-Up,Dr. F. Weiss
+EHR-000031,MRN100022,Karen,Garcia,1982-12-02,M,2023-11-13,E11.9,Annual Physical,Dr. F. Weiss
+EHR-000032,MRN100023,Jennifer,Anderson,1969-01-15,F,2023-10-30,I10,Follow-Up,Dr. B. Carter
+EHR-000033,MRN100024,Sandra,Moore,1954-09-14,F,2024-06-27,F41.1,Follow-Up,Dr. C. Patel
+EHR-000034,MRN100024,Sandra,Moore,1954-09-14,F,2023-10-30,E78.5,Office Visit,Dr. D. Ibrahim
+EHR-000035,MRN100024,Sandra,Moore,1954-09-14,F,2023-05-25,I10,Urgent Care,Dr. G. Okafor
+EHR-000036,MRN100025,Mark,Johnson,1955-07-20,M,2023-04-03,F41.1,Telehealth,Dr. A. Nguyen
+EHR-000037,MRN100025,Mark,Johnson,1955-07-20,M,2024-01-13,E78.5,Telehealth,Dr. D. Ibrahim
+EHR-000038,MRN100025,Mark,Johnson,1955-07-20,M,2023-04-21,F41.1,Telehealth,Dr. E. Flores
+EHR-000039,MRN100026,Betty,Hernandez,1970-12-28,F,2023-08-15,R07.9,Urgent Care,Dr. F. Weiss
+EHR-000040,MRN100026,Betty,Hernandez,1970-12-28,F,2024-10-26,K21.9,Office Visit,Dr. C. Patel
+EHR-000041,MRN100027,Robert,Miller,1985-11-19,F,2023-04-10,I10,Urgent Care,Dr. D. Ibrahim
+EHR-000042,MRN100027,Robert,Miller,1985-11-19,F,2024-11-17,F41.1,Telehealth,Dr. D. Ibrahim
+EHR-000043,MRN100028,Michael,Thomas,1970-06-30,F,2024-02-29,J45.909,Telehealth,Dr. D. Ibrahim
+EHR-000044,MRN100028,Michael,Thomas,1970-06-30,F,2023-02-03,K21.9,Urgent Care,Dr. B. Carter
+EHR-000045,MRN100028,Michael,Thomas,1970-06-30,F,2023-04-12,F41.1,Annual Physical,Dr. A. Nguyen
+EHR-000046,MRN100029,John,Rodriguez,1947-07-12,M,2023-07-14,K21.9,Urgent Care,Dr. A. Nguyen
+EHR-000047,MRN100029,John,Rodriguez,1947-07-12,M,2024-10-19,M54.5,Office Visit,Dr. G. Okafor
+EHR-000048,MRN100030,Lisa,Moore,1983-05-10,F,2023-05-09,M54.5,Telehealth,Dr. B. Carter
+EHR-000049,MRN100030,Lisa,Moore,1983-05-10,F,2023-08-10,R07.9,Follow-Up,Dr. G. Okafor
+EHR-000050,MRN100031,Lisa,Jackson,1973-06-08,F,2023-10-11,E11.9,Follow-Up,Dr. E. Flores
+EHR-000051,MRN100031,Lisa,Jackson,1973-06-08,F,2023-06-28,K21.9,Follow-Up,Dr. A. Nguyen
+EHR-000052,MRN100031,Lisa,Jackson,1973-06-08,F,2023-09-01,F41.1,Annual Physical,Dr. A. Nguyen
+EHR-000053,MRN100032,Barbara,Davis,1947-05-30,F,2024-06-22,N18.3,Urgent Care,Dr. G. Okafor
+EHR-000054,MRN100033,Robert,Johnson,1944-11-01,M,2024-08-30,J06.9,Telehealth,Dr. A. Nguyen
+EHR-000055,MRN100033,Robert,Johnson,1944-11-01,M,2023-11-05,J06.9,Office Visit,Dr. D. Ibrahim
+EHR-000056,MRN100034,Daniel,Garcia,2006-01-22,F,2024-12-03,N18.3,Urgent Care,Dr. A. Nguyen
+EHR-000057,MRN100034,Daniel,Garcia,2006-01-22,F,2023-11-26,I10,Annual Physical,Dr. E. Flores
+EHR-000058,MRN100035,Karen,Williams,1969-07-09,F,2024-12-30,J06.9,Telehealth,Dr. C. Patel
+EHR-000059,MRN100035,Karen,Williams,1969-07-09,F,2024-06-01,E78.5,Office Visit,Dr. G. Okafor
+EHR-000060,MRN100035,Karen,Williams,1969-07-09,F,2023-08-09,J06.9,Urgent Care,Dr. C. Patel
+EHR-000061,MRN100036,Karen,Anderson,1982-06-21,F,2024-03-01,N18.3,Annual Physical,Dr. F. Weiss
+EHR-000062,MRN100036,Karen,Anderson,1982-06-21,F,2024-01-19,K21.9,Urgent Care,Dr. A. Nguyen
+EHR-000063,MRN100037,Sarah,Smith,1996-01-12,M,2023-04-06,I10,Annual Physical,Dr. G. Okafor
+EHR-000064,MRN100038,Nancy,Moore,2002-05-13,F,2023-03-03,J06.9,Annual Physical,Dr. F. Weiss
+EHR-000065,MRN100039,Anthony,Hernandez,1945-01-03,F,2023-12-29,N18.3,Urgent Care,Dr. G. Okafor
+EHR-000066,MRN100040,Susan,Garcia,1975-09-15,M,2024-09-06,K21.9,Telehealth,Dr. B. Carter
+EHR-000067,MRN100041,Lisa,Rodriguez,1979-11-29,M,2023-08-18,E78.5,Telehealth,Dr. C. Patel
+EHR-000068,MRN100042,Thomas,Brown,1991-02-05,F,2024-08-10,K21.9,Telehealth,Dr. G. Okafor
+EHR-000069,MRN100043,Mark,Taylor,1989-08-19,M,2024-11-22,R07.9,Annual Physical,Dr. A. Nguyen
+EHR-000070,MRN100043,Mark,Taylor,1989-08-19,M,2023-10-07,J45.909,Annual Physical,Dr. C. Patel
+EHR-000071,MRN100043,Mark,Taylor,1989-08-19,M,2023-07-05,E11.9,Urgent Care,Dr. A. Nguyen
+EHR-000072,MRN100044,John,Lopez,2003-05-29,M,2023-04-04,E11.9,Urgent Care,Dr. D. Ibrahim
+EHR-000073,MRN100045,Sarah,Taylor,1935-01-19,F,2024-01-14,J45.909,Telehealth,Dr. E. Flores
+EHR-000074,MRN100045,Sarah,Taylor,1935-01-19,F,2023-02-23,I10,Office Visit,Dr. F. Weiss
+EHR-000075,MRN100046,Jessica,Smith,1945-01-13,F,2024-03-29,K21.9,Urgent Care,Dr. D. Ibrahim
+EHR-000076,MRN100047,Donald,Martinez,1956-06-25,M,2024-06-08,M54.5,Annual Physical,Dr. F. Weiss
+EHR-000077,MRN100047,Donald,Martinez,1956-06-25,M,2024-05-13,R07.9,Follow-Up,Dr. D. Ibrahim
+EHR-000078,MRN100048,Linda,Jackson,1942-01-24,M,2023-01-08,E11.9,Follow-Up,Dr. G. Okafor
+EHR-000079,MRN100048,Linda,Jackson,1942-01-24,M,2023-10-24,K21.9,Urgent Care,Dr. B. Carter
+EHR-000080,MRN100048,Linda,Jackson,1942-01-24,M,2024-01-25,J45.909,Telehealth,Dr. G. Okafor
+EHR-000081,MRN100049,Lisa,Thomas,1941-03-17,M,2024-02-11,I10,Office Visit,Dr. D. Ibrahim
+EHR-000082,MRN100049,Lisa,Thomas,1941-03-17,M,2023-11-17,I10,Urgent Care,Dr. C. Patel
+EHR-000083,MRN100050,John,Thomas,1984-04-28,M,2023-01-22,N18.3,Telehealth,Dr. D. Ibrahim
+EHR-000084,MRN100051,William,Taylor,1989-06-02,F,2024-03-23,I10,Telehealth,Dr. D. Ibrahim
+EHR-000085,MRN100051,William,Taylor,1989-06-02,F,2023-03-22,J06.9,Annual Physical,Dr. B. Carter
+EHR-000086,MRN100052,Michael,Moore,2002-10-04,M,2023-03-20,J45.909,Telehealth,Dr. B. Carter
+EHR-000087,MRN100052,Michael,Moore,2002-10-04,M,2023-12-26,F41.1,Follow-Up,Dr. B. Carter
+EHR-000088,MRN100053,Matthew,Martinez,1970-10-18,F,2023-09-20,J45.909,Office Visit,Dr. B. Carter
+EHR-000089,MRN100054,Joseph,Taylor,1975-07-04,M,2024-07-31,E78.5,Telehealth,Dr. F. Weiss
+EHR-000090,MRN100054,Joseph,Taylor,1975-07-04,M,2023-11-27,R07.9,Follow-Up,Dr. D. Ibrahim
+EHR-000091,MRN100055,Linda,Davis,1940-09-29,F,2024-03-28,E78.5,Telehealth,Dr. A. Nguyen
+EHR-000092,MRN100056,James,Jackson,1984-09-10,M,2023-03-17,J06.9,Office Visit,Dr. C. Patel
+EHR-000093,MRN100056,James,Jackson,1984-09-10,M,2023-03-20,K21.9,Office Visit,Dr. E. Flores
+EHR-000094,MRN100057,Charles,Davis,1935-08-24,M,2024-01-29,J06.9,Office Visit,Dr. D. Ibrahim
+EHR-000095,MRN100057,Charles,Davis,1935-08-24,M,2024-10-29,R07.9,Telehealth,Dr. B. Carter
+EHR-000096,MRN100057,Charles,Davis,1935-08-24,M,2024-04-06,E11.9,Annual Physical,Dr. F. Weiss
+EHR-000097,MRN100058,Matthew,Johnson,1955-07-16,M,2024-10-23,J06.9,Urgent Care,Dr. D. Ibrahim
+EHR-000098,MRN100059,Donald,Johnson,1964-08-23,M,2024-09-16,J06.9,Annual Physical,Dr. D. Ibrahim
+EHR-000099,MRN100059,Donald,Johnson,1964-08-23,M,2023-12-13,N18.3,Annual Physical,Dr. A. Nguyen
+EHR-000100,MRN100059,Donald,Johnson,1964-08-23,M,2023-04-07,F41.1,Annual Physical,Dr. F. Weiss
+EHR-000101,MRN100060,Thomas,Davis,1959-12-26,F,2023-12-08,J45.909,Annual Physical,Dr. C. Patel
+EHR-000102,MRN100060,Thomas,Davis,1959-12-26,F,2023-05-13,N18.3,Annual Physical,Dr. E. Flores
+EHR-000103,MRN100060,Thomas,Davis,1959-12-26,F,2024-10-20,N18.3,Telehealth,Dr. A. Nguyen
+EHR-000104,MRN100061,Michael,Moore,1946-11-14,F,2024-01-06,J06.9,Follow-Up,Dr. C. Patel
+EHR-000105,MRN100061,Michael,Moore,1946-11-14,F,2023-07-16,E78.5,Office Visit,Dr. C. Patel
+EHR-000106,MRN100062,Linda,Thomas,1971-07-09,M,2024-07-06,J06.9,Office Visit,Dr. F. Weiss
+EHR-000107,MRN100063,Patricia,Brown,1994-02-13,F,2023-05-15,R07.9,Follow-Up,Dr. G. Okafor
+EHR-000108,MRN100063,Patricia,Brown,1994-02-13,F,2023-06-19,R07.9,Annual Physical,Dr. F. Weiss
+EHR-000109,MRN100064,Barbara,Wilson,1971-11-18,F,2024-09-17,E78.5,Urgent Care,Dr. B. Carter
+EHR-000110,MRN100065,Margaret,Johnson,1995-05-30,M,2023-11-13,M54.5,Follow-Up,Dr. C. Patel
+EHR-000111,MRN100065,Margaret,Johnson,1995-05-30,M,2024-03-27,R07.9,Urgent Care,Dr. E. Flores
+EHR-000112,MRN100065,Margaret,Johnson,1995-05-30,M,2024-03-04,J06.9,Telehealth,Dr. B. Carter
+EHR-000113,MRN100066,Mary,Gonzalez,2000-05-01,F,2024-10-18,E11.9,Office Visit,Dr. F. Weiss
+EHR-000114,MRN100066,Mary,Gonzalez,2000-05-01,F,2023-05-08,J06.9,Annual Physical,Dr. D. Ibrahim
+EHR-000115,MRN100067,Betty,Brown,1957-04-22,M,2024-03-23,J45.909,Urgent Care,Dr. C. Patel
+EHR-000116,MRN100067,Betty,Brown,1957-04-22,M,2024-02-29,E11.9,Follow-Up,Dr. D. Ibrahim
+EHR-000117,MRN100067,Betty,Brown,1957-04-22,M,2024-01-19,I10,Office Visit,Dr. G. Okafor
+EHR-000118,MRN100068,Michael,Moore,1975-04-01,M,2023-05-21,J45.909,Urgent Care,Dr. F. Weiss
+EHR-000119,MRN100068,Michael,Moore,1975-04-01,M,2024-12-23,J45.909,Office Visit,Dr. A. Nguyen
+EHR-000120,MRN100069,Susan,Garcia,1959-12-28,F,2023-06-03,M54.5,Telehealth,Dr. D. Ibrahim
+EHR-000121,MRN100069,Susan,Garcia,1959-12-28,F,2023-10-23,I10,Follow-Up,Dr. D. Ibrahim
+EHR-000122,MRN100070,Linda,Williams,1974-10-03,M,2023-03-06,E78.5,Telehealth,Dr. E. Flores
+EHR-000123,MRN100070,Linda,Williams,1974-10-03,M,2024-10-09,E11.9,Follow-Up,Dr. C. Patel
+EHR-000124,MRN100070,Linda,Williams,1974-10-03,M,2023-01-02,N18.3,Urgent Care,Dr. B. Carter
+EHR-000125,MRN100071,Mary,Moore,1936-04-28,M,2024-01-05,J06.9,Telehealth,Dr. G. Okafor
+EHR-000126,MRN100072,Sandra,Davis,1949-12-02,F,2023-01-21,J06.9,Urgent Care,Dr. C. Patel
+EHR-000127,MRN100072,Sandra,Davis,1949-12-02,F,2023-01-17,K21.9,Follow-Up,Dr. F. Weiss
+EHR-000128,MRN100072,Sandra,Davis,1949-12-02,F,2024-08-18,I10,Office Visit,Dr. C. Patel
+EHR-000129,MRN100073,Jessica,Thomas,1954-03-06,F,2024-10-20,F41.1,Urgent Care,Dr. F. Weiss
+EHR-000130,MRN100073,Jessica,Thomas,1954-03-06,F,2024-10-08,E78.5,Urgent Care,Dr. A. Nguyen
+EHR-000131,MRN100073,Jessica,Thomas,1954-03-06,F,2023-07-26,K21.9,Office Visit,Dr. C. Patel
+EHR-000132,MRN100074,Donald,Johnson,1949-10-08,F,2024-02-12,J06.9,Annual Physical,Dr. A. Nguyen
+EHR-000133,MRN100074,Donald,Johnson,1949-10-08,F,2023-10-20,M54.5,Annual Physical,Dr. C. Patel
+EHR-000134,MRN100075,James,Gonzalez,1958-10-17,F,2024-03-23,F41.1,Urgent Care,Dr. C. Patel
+EHR-000135,MRN100076,Elizabeth,Wilson,1997-06-29,F,2024-12-09,E78.5,Telehealth,Dr. C. Patel
+EHR-000136,MRN100077,John,Miller,1961-08-14,M,2023-03-22,N18.3,Follow-Up,Dr. E. Flores
+EHR-000137,MRN100078,Mary,Jackson,2001-01-02,M,2023-04-16,F41.1,Annual Physical,Dr. D. Ibrahim
+EHR-000138,MRN100078,Mary,Jackson,2001-01-02,M,2024-03-12,R07.9,Urgent Care,Dr. A. Nguyen
+EHR-000139,MRN100079,Lisa,Hernandez,1940-02-17,M,2024-03-21,R07.9,Office Visit,Dr. A. Nguyen
+EHR-000140,MRN100079,Lisa,Hernandez,1940-02-17,M,2024-01-08,N18.3,Follow-Up,Dr. A. Nguyen
+EHR-000141,MRN100080,Charles,Thomas,1980-02-11,M,2024-11-25,R07.9,Office Visit,Dr. B. Carter
+EHR-000142,MRN100081,Mary,Taylor,1942-03-10,M,2024-01-28,F41.1,Follow-Up,Dr. F. Weiss
+EHR-000143,MRN100081,Mary,Taylor,1942-03-10,M,2024-01-15,E78.5,Telehealth,Dr. B. Carter
+EHR-000144,MRN100082,Robert,Martin,1941-02-04,M,2024-02-12,F41.1,Office Visit,Dr. A. Nguyen
+EHR-000145,MRN100082,Robert,Martin,1941-02-04,M,2024-05-26,J45.909,Office Visit,Dr. C. Patel
+EHR-000146,MRN100082,Robert,Martin,1941-02-04,M,2024-12-21,K21.9,Annual Physical,Dr. F. Weiss
+EHR-000147,MRN100083,Richard,Brown,1986-02-09,M,2023-05-06,M54.5,Follow-Up,Dr. F. Weiss
+EHR-000148,MRN100083,Richard,Brown,1986-02-09,M,2023-03-31,E78.5,Annual Physical,Dr. F. Weiss
+EHR-000149,MRN100084,Charles,Martin,1938-07-26,M,2024-07-17,I10,Follow-Up,Dr. F. Weiss
+EHR-000150,MRN100084,Charles,Martin,1938-07-26,M,2024-01-06,J45.909,Follow-Up,Dr. G. Okafor
+EHR-000151,MRN100085,Susan,Jackson,1985-09-16,F,2024-05-20,M54.5,Annual Physical,Dr. D. Ibrahim
+EHR-000152,MRN100086,Sandra,Rodriguez,1953-04-29,F,2024-09-18,J45.909,Urgent Care,Dr. F. Weiss
+EHR-000153,MRN100086,Sandra,Rodriguez,1953-04-29,F,2024-06-22,E78.5,Telehealth,Dr. A. Nguyen
+EHR-000154,MRN100086,Sandra,Rodriguez,1953-04-29,F,2023-11-21,J45.909,Telehealth,Dr. C. Patel
+EHR-000155,MRN100087,Linda,Rodriguez,1970-07-05,M,2024-10-17,J06.9,Follow-Up,Dr. D. Ibrahim
+EHR-000156,MRN100088,Nancy,Martinez,1976-01-08,F,2023-05-08,E11.9,Follow-Up,Dr. C. Patel
+EHR-000157,MRN100088,Nancy,Martinez,1976-01-08,F,2023-12-21,M54.5,Annual Physical,Dr. G. Okafor
+EHR-000158,MRN100088,Nancy,Martinez,1976-01-08,F,2023-09-14,I10,Annual Physical,Dr. B. Carter
+EHR-000159,MRN100089,Sandra,Williams,1935-11-02,F,2024-06-30,R07.9,Telehealth,Dr. E. Flores
+EHR-000160,MRN100089,Sandra,Williams,1935-11-02,F,2023-06-25,J45.909,Telehealth,Dr. C. Patel
+EHR-000161,MRN100090,Karen,Jackson,1943-12-21,M,2023-01-30,E11.9,Telehealth,Dr. C. Patel
+EHR-000162,MRN100090,Karen,Jackson,1943-12-21,M,2024-08-08,M54.5,Urgent Care,Dr. F. Weiss
+EHR-000163,MRN100090,Karen,Jackson,1943-12-21,M,2023-10-24,J06.9,Follow-Up,Dr. G. Okafor
+EHR-000164,MRN100091,Sarah,Miller,1980-05-20,F,2024-04-09,K21.9,Urgent Care,Dr. D. Ibrahim
+EHR-000165,MRN100091,Sarah,Miller,1980-05-20,F,2024-04-20,E78.5,Annual Physical,Dr. G. Okafor
+EHR-000166,MRN100092,John,Lopez,1941-03-04,M,2024-02-13,F41.1,Telehealth,Dr. A. Nguyen
+EHR-000167,MRN100092,John,Lopez,1941-03-04,M,2023-09-05,F41.1,Follow-Up,Dr. B. Carter
+EHR-000168,MRN100093,Barbara,Martinez,1949-02-25,F,2023-10-25,E11.9,Urgent Care,Dr. B. Carter
+EHR-000169,MRN100094,Mark,Moore,1998-02-12,F,2024-08-14,F41.1,Follow-Up,Dr. D. Ibrahim
+EHR-000170,MRN100095,Karen,Taylor,1935-09-14,F,2024-05-25,E78.5,Office Visit,Dr. D. Ibrahim
+EHR-000171,MRN100095,Karen,Taylor,1935-09-14,F,2024-04-13,J06.9,Annual Physical,Dr. A. Nguyen
+EHR-000172,MRN100095,Karen,Taylor,1935-09-14,F,2023-10-16,E11.9,Urgent Care,Dr. C. Patel
+EHR-000173,MRN100096,Sandra,Brown,1947-01-18,F,2023-04-21,E11.9,Annual Physical,Dr. G. Okafor
+EHR-000174,MRN100096,Sandra,Brown,1947-01-18,F,2024-01-10,N18.3,Telehealth,Dr. B. Carter
+EHR-000175,MRN100096,Sandra,Brown,1947-01-18,F,2024-07-20,F41.1,Urgent Care,Dr. G. Okafor
+EHR-000176,MRN100097,Patricia,Brown,2001-08-09,M,2024-09-30,K21.9,Office Visit,Dr. D. Ibrahim
+EHR-000177,MRN100097,Patricia,Brown,2001-08-09,M,2023-12-14,F41.1,Follow-Up,Dr. B. Carter
+EHR-000178,MRN100097,Patricia,Brown,2001-08-09,M,2024-06-05,R07.9,Office Visit,Dr. B. Carter
+EHR-000179,MRN100098,William,Martinez,1989-04-06,M,2024-06-15,E78.5,Telehealth,Dr. B. Carter
+EHR-000180,MRN100098,William,Martinez,1989-04-06,M,2024-09-19,F41.1,Telehealth,Dr. F. Weiss
+EHR-000181,MRN100099,Matthew,Hernandez,1953-04-07,F,2023-12-11,R07.9,Urgent Care,Dr. F. Weiss
+EHR-000182,MRN100099,Matthew,Hernandez,1953-04-07,F,2023-11-03,R07.9,Annual Physical,Dr. F. Weiss
+EHR-000183,MRN100100,Thomas,Thomas,1957-07-12,M,2024-08-20,N18.3,Office Visit,Dr. E. Flores
+EHR-000184,MRN100101,Robert,Wilson,1959-10-28,M,2024-11-02,K21.9,Telehealth,Dr. B. Carter
+EHR-000185,MRN100101,Robert,Wilson,1959-10-28,M,2024-08-20,E11.9,Telehealth,Dr. G. Okafor
+EHR-000186,MRN100102,James,Hernandez,2004-03-07,M,2024-11-28,J45.909,Office Visit,Dr. B. Carter
+EHR-000187,MRN100102,James,Hernandez,2004-03-07,M,2024-03-27,E11.9,Follow-Up,Dr. D. Ibrahim
+EHR-000188,MRN100103,Daniel,Rodriguez,1949-06-30,F,2024-04-27,R07.9,Office Visit,Dr. F. Weiss
+EHR-000189,MRN100103,Daniel,Rodriguez,1949-06-30,F,2024-06-15,J45.909,Urgent Care,Dr. E. Flores
+EHR-000190,MRN100103,Daniel,Rodriguez,1949-06-30,F,2023-11-18,N18.3,Telehealth,Dr. C. Patel
+EHR-000191,MRN100104,Sarah,Wilson,1985-04-27,M,2024-11-23,F41.1,Annual Physical,Dr. E. Flores
+EHR-000192,MRN100104,Sarah,Wilson,1985-04-27,M,2023-07-16,E78.5,Annual Physical,Dr. B. Carter
+EHR-000193,MRN100104,Sarah,Wilson,1985-04-27,M,2023-10-23,K21.9,Urgent Care,Dr. C. Patel
+EHR-000194,MRN100105,Patricia,Williams,1996-12-29,M,2024-07-27,F41.1,Annual Physical,Dr. C. Patel
+EHR-000195,MRN100105,Patricia,Williams,1996-12-29,M,2024-08-10,I10,Urgent Care,Dr. G. Okafor
+EHR-000196,MRN100106,Sarah,Johnson,1968-02-15,M,2023-10-25,J45.909,Office Visit,Dr. C. Patel
+EHR-000197,MRN100106,Sarah,Johnson,1968-02-15,M,2024-11-02,E78.5,Follow-Up,Dr. G. Okafor
+EHR-000198,MRN100107,Susan,Jones,1938-10-02,F,2024-07-29,K21.9,Telehealth,Dr. F. Weiss
+EHR-000199,MRN100107,Susan,Jones,1938-10-02,F,2023-09-03,R07.9,Telehealth,Dr. B. Carter
+EHR-000200,MRN100107,Susan,Jones,1938-10-02,F,2023-02-23,M54.5,Urgent Care,Dr. A. Nguyen
+EHR-000201,MRN100108,Barbara,Johnson,1967-02-06,M,2024-07-17,E11.9,Urgent Care,Dr. D. Ibrahim
+EHR-000202,MRN100109,Nancy,Davis,1994-11-01,M,2023-11-25,K21.9,Office Visit,Dr. F. Weiss
+EHR-000203,MRN100110,Barbara,Moore,1971-06-17,M,2024-07-01,M54.5,Office Visit,Dr. B. Carter
+EHR-000204,MRN100110,Barbara,Moore,1971-06-17,M,2023-06-30,N18.3,Urgent Care,Dr. G. Okafor
+EHR-000205,MRN100110,Barbara,Moore,1971-06-17,M,2023-07-10,E78.5,Annual Physical,Dr. A. Nguyen
+EHR-000206,MRN100111,Sandra,Davis,1949-07-30,M,2024-08-04,K21.9,Annual Physical,Dr. C. Patel
+EHR-000207,MRN100112,Donald,Wilson,1937-03-23,M,2024-06-20,J06.9,Telehealth,Dr. D. Ibrahim
+EHR-000208,MRN100112,Donald,Wilson,1937-03-23,M,2023-07-17,K21.9,Urgent Care,Dr. F. Weiss
+EHR-000209,MRN100113,Lisa,Hernandez,2005-03-11,F,2023-01-15,J45.909,Telehealth,Dr. F. Weiss
+EHR-000210,MRN100113,Lisa,Hernandez,2005-03-11,F,2023-06-29,M54.5,Urgent Care,Dr. G. Okafor
+EHR-000211,MRN100114,Betty,Davis,1958-12-08,M,2023-12-02,J06.9,Follow-Up,Dr. B. Carter
+EHR-000212,MRN100114,Betty,Davis,1958-12-08,M,2023-11-28,E78.5,Urgent Care,Dr. B. Carter
+EHR-000213,MRN100115,Betty,Brown,1969-04-27,M,2023-12-04,K21.9,Office Visit,Dr. C. Patel
+EHR-000214,MRN100115,Betty,Brown,1969-04-27,M,2024-12-10,F41.1,Urgent Care,Dr. C. Patel
+EHR-000215,MRN100116,Margaret,Thomas,1954-12-15,M,2024-12-03,N18.3,Annual Physical,Dr. F. Weiss
+EHR-000216,MRN100117,Mark,Anderson,1966-05-15,F,2024-01-12,K21.9,Follow-Up,Dr. D. Ibrahim
+EHR-000217,MRN100118,Mark,Davis,1954-12-31,M,2024-09-12,E78.5,Urgent Care,Dr. G. Okafor
+EHR-000218,MRN100119,Nancy,Miller,1970-09-30,F,2023-09-11,M54.5,Office Visit,Dr. E. Flores
+EHR-000219,MRN100119,Nancy,Miller,1970-09-30,F,2024-06-24,E78.5,Telehealth,Dr. A. Nguyen
+EHR-000220,MRN100119,Nancy,Miller,1970-09-30,F,2024-07-14,E11.9,Telehealth,Dr. B. Carter
+EHR-000221,MRN100120,William,Williams,2004-05-18,F,2024-06-16,F41.1,Telehealth,Dr. D. Ibrahim
+EHR-000222,MRN100121,Barbara,Taylor,1970-11-09,F,2024-04-01,J06.9,Telehealth,Dr. D. Ibrahim
+EHR-000223,MRN100122,James,Brown,1958-06-08,M,2023-03-01,R07.9,Annual Physical,Dr. F. Weiss
+EHR-000224,MRN100122,James,Brown,1958-06-08,M,2024-02-10,E11.9,Follow-Up,Dr. E. Flores
+EHR-000225,MRN100123,Charles,Rodriguez,1938-06-07,M,2024-03-09,E11.9,Office Visit,Dr. A. Nguyen
+EHR-000226,MRN100124,Karen,Wilson,1966-01-05,F,2023-10-21,E11.9,Urgent Care,Dr. C. Patel
+EHR-000227,MRN100124,Karen,Wilson,1966-01-05,F,2024-04-04,N18.3,Urgent Care,Dr. A. Nguyen
+EHR-000228,MRN100125,Susan,Martin,1980-11-18,M,2024-10-31,J45.909,Telehealth,Dr. D. Ibrahim
+EHR-000229,MRN100125,Susan,Martin,1980-11-18,M,2023-05-11,J06.9,Office Visit,Dr. G. Okafor
+EHR-000230,MRN100125,Susan,Martin,1980-11-18,M,2023-11-02,E11.9,Urgent Care,Dr. E. Flores
+EHR-000231,MRN100126,Richard,Jackson,1952-01-20,F,2023-09-11,M54.5,Follow-Up,Dr. F. Weiss
+EHR-000232,MRN100126,Richard,Jackson,1952-01-20,F,2023-02-02,I10,Office Visit,Dr. B. Carter
+EHR-000233,MRN100127,Mary,Wilson,1935-02-25,M,2023-04-14,I10,Office Visit,Dr. B. Carter
+EHR-000234,MRN100128,Barbara,Wilson,1941-04-11,F,2024-03-25,N18.3,Office Visit,Dr. B. Carter
+EHR-000235,MRN100129,Karen,Hernandez,1994-07-07,M,2023-08-28,K21.9,Annual Physical,Dr. E. Flores
+EHR-000236,MRN100129,Karen,Hernandez,1994-07-07,M,2024-11-19,R07.9,Follow-Up,Dr. F. Weiss
+EHR-000237,MRN100129,Karen,Hernandez,1994-07-07,M,2023-08-15,J06.9,Telehealth,Dr. E. Flores
+EHR-000238,MRN100130,Lisa,Martinez,1980-06-30,F,2024-07-23,N18.3,Urgent Care,Dr. G. Okafor
+EHR-000239,MRN100131,Nancy,Wilson,1964-04-06,F,2024-12-14,F41.1,Urgent Care,Dr. B. Carter
+EHR-000240,MRN100131,Nancy,Wilson,1964-04-06,F,2024-04-29,J06.9,Follow-Up,Dr. G. Okafor
+EHR-000241,MRN100131,Nancy,Wilson,1964-04-06,F,2023-03-01,E78.5,Telehealth,Dr. E. Flores
+EHR-000242,MRN100132,Matthew,Martinez,1984-09-26,M,2023-09-06,N18.3,Office Visit,Dr. D. Ibrahim
+EHR-000243,MRN100133,Michael,Wilson,1994-08-27,F,2024-07-02,I10,Annual Physical,Dr. D. Ibrahim
+EHR-000244,MRN100133,Michael,Wilson,1994-08-27,F,2024-09-09,R07.9,Telehealth,Dr. F. Weiss
+EHR-000245,MRN100134,Nancy,Garcia,1990-03-22,F,2024-05-05,M54.5,Annual Physical,Dr. A. Nguyen
+EHR-000246,MRN100134,Nancy,Garcia,1990-03-22,F,2023-07-14,M54.5,Urgent Care,Dr. B. Carter
+EHR-000247,MRN100134,Nancy,Garcia,1990-03-22,F,2024-12-21,R07.9,Telehealth,Dr. C. Patel
+EHR-000248,MRN100135,Richard,Moore,1935-01-14,F,2024-04-22,N18.3,Annual Physical,Dr. C. Patel
+EHR-000249,MRN100135,Richard,Moore,1935-01-14,F,2024-05-24,J06.9,Urgent Care,Dr. G. Okafor
+EHR-000250,MRN100136,Elizabeth,Miller,1973-07-26,F,2024-01-15,M54.5,Follow-Up,Dr. F. Weiss
+EHR-000251,MRN100136,Elizabeth,Miller,1973-07-26,F,2023-01-17,J45.909,Telehealth,Dr. F. Weiss
+EHR-000252,MRN100137,Joseph,Anderson,1974-09-01,M,2023-06-06,K21.9,Telehealth,Dr. G. Okafor
+EHR-000253,MRN100137,Joseph,Anderson,1974-09-01,M,2024-05-26,M54.5,Annual Physical,Dr. C. Patel
+EHR-000254,MRN100138,Thomas,Thomas,2006-03-18,M,2024-04-16,E78.5,Follow-Up,Dr. B. Carter
+EHR-000255,MRN100138,Thomas,Thomas,2006-03-18,M,2024-05-15,J06.9,Office Visit,Dr. E. Flores
+EHR-000256,MRN100139,Nancy,Williams,1960-06-17,F,2024-11-15,I10,Follow-Up,Dr. G. Okafor
+EHR-000257,MRN100140,Robert,Davis,1995-05-12,F,2024-12-25,I10,Urgent Care,Dr. C. Patel
+EHR-000258,MRN100141,Linda,Miller,1948-03-21,M,2024-10-15,R07.9,Urgent Care,Dr. F. Weiss
+EHR-000259,MRN100142,Mary,Davis,1977-08-17,M,2023-01-07,E11.9,Office Visit,Dr. E. Flores
+EHR-000260,MRN100142,Mary,Davis,1977-08-17,M,2024-07-02,K21.9,Urgent Care,Dr. G. Okafor
+EHR-000261,MRN100143,Joseph,Wilson,1991-07-02,M,2023-04-09,I10,Telehealth,Dr. E. Flores
+EHR-000262,MRN100144,Matthew,Gonzalez,1979-05-09,F,2023-10-01,F41.1,Urgent Care,Dr. D. Ibrahim
+EHR-000263,MRN100144,Matthew,Gonzalez,1979-05-09,F,2023-09-07,R07.9,Office Visit,Dr. F. Weiss
+EHR-000264,MRN100145,Linda,Jones,1993-11-09,M,2024-02-20,I10,Office Visit,Dr. F. Weiss
+EHR-000265,MRN100146,Donald,Brown,2004-11-01,F,2023-03-26,J45.909,Annual Physical,Dr. E. Flores
+EHR-000266,MRN100147,Linda,Garcia,1997-06-07,F,2023-02-13,J06.9,Telehealth,Dr. D. Ibrahim
+EHR-000267,MRN100148,Mary,Moore,1957-05-10,M,2023-03-18,E11.9,Telehealth,Dr. E. Flores
+EHR-000268,MRN100148,Mary,Moore,1957-05-10,M,2023-07-03,E11.9,Follow-Up,Dr. E. Flores
+EHR-000269,MRN100149,Joseph,Jones,2006-11-24,F,2023-03-20,N18.3,Telehealth,Dr. G. Okafor
+EHR-000270,MRN100150,Nancy,Taylor,1985-02-21,F,2023-12-06,J06.9,Office Visit,Dr. E. Flores
+EHR-000271,MRN100150,Nancy,Taylor,1985-02-21,F,2023-02-24,F41.1,Office Visit,Dr. C. Patel
+EHR-000272,MRN100151,Anthony,Anderson,1989-12-18,F,2024-09-01,R07.9,Office Visit,Dr. F. Weiss
+EHR-000273,MRN100151,Anthony,Anderson,1989-12-18,F,2024-04-06,K21.9,Urgent Care,Dr. D. Ibrahim
+EHR-000274,MRN100151,Anthony,Anderson,1989-12-18,F,2024-11-27,J45.909,Telehealth,Dr. C. Patel
+EHR-000275,MRN100152,Mark,Moore,1975-01-02,M,2023-03-26,I10,Follow-Up,Dr. F. Weiss
+EHR-000276,MRN100153,Lisa,Thomas,1975-05-18,F,2024-01-05,F41.1,Annual Physical,Dr. D. Ibrahim
+EHR-000277,MRN100153,Lisa,Thomas,1975-05-18,F,2023-10-04,F41.1,Urgent Care,Dr. D. Ibrahim
+EHR-000278,MRN100154,Anthony,Davis,1992-03-16,F,2024-06-08,J06.9,Annual Physical,Dr. E. Flores
+EHR-000279,MRN100154,Anthony,Davis,1992-03-16,F,2024-09-03,I10,Urgent Care,Dr. A. Nguyen
+EHR-000280,MRN100154,Anthony,Davis,1992-03-16,F,2024-02-28,K21.9,Telehealth,Dr. B. Carter
+EHR-000281,MRN100155,Anthony,Taylor,1978-06-23,M,2023-06-23,J06.9,Annual Physical,Dr. C. Patel
+EHR-000282,MRN100155,Anthony,Taylor,1978-06-23,M,2024-05-19,K21.9,Annual Physical,Dr. D. Ibrahim
+EHR-000283,MRN100155,Anthony,Taylor,1978-06-23,M,2024-05-10,K21.9,Follow-Up,Dr. F. Weiss
+EHR-000284,MRN100156,William,Anderson,1941-12-13,F,2024-09-23,R07.9,Annual Physical,Dr. A. Nguyen
+EHR-000285,MRN100156,William,Anderson,1941-12-13,F,2023-12-07,N18.3,Annual Physical,Dr. D. Ibrahim
+EHR-000286,MRN100157,Linda,Rodriguez,1965-02-17,F,2024-10-28,N18.3,Annual Physical,Dr. E. Flores
+EHR-000287,MRN100157,Linda,Rodriguez,1965-02-17,F,2024-05-05,M54.5,Annual Physical,Dr. C. Patel
+EHR-000288,MRN100158,Donald,Moore,1942-03-25,M,2023-09-06,R07.9,Urgent Care,Dr. C. Patel
+EHR-000289,MRN100158,Donald,Moore,1942-03-25,M,2024-07-31,I10,Follow-Up,Dr. F. Weiss
+EHR-000290,MRN100159,John,Davis,1969-05-13,M,2024-04-17,E11.9,Annual Physical,Dr. G. Okafor
+EHR-000291,MRN100159,John,Davis,1969-05-13,M,2024-02-23,I10,Annual Physical,Dr. B. Carter
+EHR-000292,MRN100159,John,Davis,1969-05-13,M,2024-11-05,K21.9,Urgent Care,Dr. A. Nguyen
+EHR-000293,MRN100160,Matthew,Miller,1940-10-05,F,2024-05-05,R07.9,Urgent Care,Dr. E. Flores
+EHR-000294,MRN100160,Matthew,Miller,1940-10-05,F,2024-01-04,E11.9,Telehealth,Dr. F. Weiss
+EHR-000295,MRN100161,Susan,Hernandez,1983-09-06,F,2023-09-12,I10,Telehealth,Dr. A. Nguyen
+EHR-000296,MRN100162,Susan,Johnson,1953-07-22,F,2023-12-06,N18.3,Office Visit,Dr. A. Nguyen
+EHR-000297,MRN100162,Susan,Johnson,1953-07-22,F,2023-08-16,K21.9,Telehealth,Dr. F. Weiss
+EHR-000298,MRN100162,Susan,Johnson,1953-07-22,F,2023-08-15,R07.9,Telehealth,Dr. F. Weiss
+EHR-000299,MRN100163,Richard,Jackson,1997-05-25,M,2023-12-20,J45.909,Annual Physical,Dr. D. Ibrahim
+EHR-000300,MRN100163,Richard,Jackson,1997-05-25,M,2023-04-29,I10,Annual Physical,Dr. C. Patel
+EHR-000301,MRN100163,Richard,Jackson,1997-05-25,M,2024-04-11,F41.1,Annual Physical,Dr. D. Ibrahim
+EHR-000302,MRN100164,Margaret,Jackson,1969-02-15,F,2024-12-14,E78.5,Office Visit,Dr. G. Okafor
+EHR-000303,MRN100165,James,Lopez,1961-10-15,F,2023-12-18,E11.9,Follow-Up,Dr. F. Weiss
+EHR-000304,MRN100166,Margaret,Wilson,1983-04-15,M,2023-06-28,J06.9,Urgent Care,Dr. D. Ibrahim
+EHR-000305,MRN100167,Jessica,Davis,1959-06-27,F,2024-10-06,N18.3,Urgent Care,Dr. D. Ibrahim
+EHR-000306,MRN100168,Jessica,Smith,1969-11-20,F,2023-07-22,R07.9,Office Visit,Dr. F. Weiss
+EHR-000307,MRN100169,Nancy,Gonzalez,1999-12-20,M,2023-10-13,M54.5,Office Visit,Dr. E. Flores
+EHR-000308,MRN100170,Mark,Anderson,1946-06-14,M,2023-07-11,J06.9,Office Visit,Dr. C. Patel
+EHR-000309,MRN100171,Sandra,Gonzalez,1988-02-07,M,2024-10-16,J06.9,Urgent Care,Dr. E. Flores
+EHR-000310,MRN100171,Sandra,Gonzalez,1988-02-07,M,2023-12-23,I10,Follow-Up,Dr. G. Okafor
+EHR-000311,MRN100172,Robert,Wilson,1947-03-05,F,2024-08-27,R07.9,Office Visit,Dr. B. Carter
+EHR-000312,MRN100172,Robert,Wilson,1947-03-05,F,2023-04-30,K21.9,Telehealth,Dr. D. Ibrahim
+EHR-000313,MRN100173,Jennifer,Johnson,1958-05-04,F,2023-05-22,R07.9,Urgent Care,Dr. F. Weiss
+EHR-000314,MRN100173,Jennifer,Johnson,1958-05-04,F,2024-12-11,J06.9,Follow-Up,Dr. E. Flores
+EHR-000315,MRN100174,David,Miller,1975-10-17,F,2023-10-23,E78.5,Urgent Care,Dr. E. Flores
+EHR-000316,MRN100175,David,Gonzalez,1959-12-18,F,2023-01-10,F41.1,Urgent Care,Dr. E. Flores
+EHR-000317,MRN100176,William,Williams,1977-03-12,M,2024-02-23,E78.5,Urgent Care,Dr. D. Ibrahim
+EHR-000318,MRN100176,William,Williams,1977-03-12,M,2023-03-26,J45.909,Follow-Up,Dr. C. Patel
+EHR-000319,MRN100176,William,Williams,1977-03-12,M,2023-10-09,E11.9,Urgent Care,Dr. E. Flores
+EHR-000320,MRN100177,Lisa,Moore,1939-09-03,F,2024-06-07,J06.9,Telehealth,Dr. G. Okafor
+EHR-000321,MRN100177,Lisa,Moore,1939-09-03,F,2024-07-09,F41.1,Urgent Care,Dr. E. Flores
+EHR-000322,MRN100178,Linda,Williams,2005-02-01,M,2023-04-15,N18.3,Follow-Up,Dr. C. Patel
+EHR-000323,MRN100179,Anthony,Smith,1957-03-08,M,2023-09-27,E78.5,Urgent Care,Dr. G. Okafor
+EHR-000324,MRN100180,Mark,Smith,1990-09-28,M,2023-08-03,M54.5,Annual Physical,Dr. G. Okafor
+EHR-000325,MRN100181,Linda,Jones,1977-06-26,M,2023-06-19,N18.3,Follow-Up,Dr. G. Okafor
+EHR-000326,MRN100181,Linda,Jones,1977-06-26,M,2024-08-06,E11.9,Telehealth,Dr. B. Carter
+EHR-000327,MRN100181,Linda,Jones,1977-06-26,M,2024-12-21,F41.1,Telehealth,Dr. F. Weiss
+EHR-000328,MRN100182,Charles,Miller,1976-09-20,F,2024-02-26,J45.909,Follow-Up,Dr. F. Weiss
+EHR-000329,MRN100183,Anthony,Lopez,1950-01-20,M,2023-05-30,M54.5,Urgent Care,Dr. D. Ibrahim
+EHR-000330,MRN100184,Anthony,Garcia,1962-11-27,M,2024-10-09,R07.9,Urgent Care,Dr. A. Nguyen
+EHR-000331,MRN100185,Charles,Smith,1962-12-27,F,2024-06-11,N18.3,Annual Physical,Dr. D. Ibrahim
+EHR-000332,MRN100186,Richard,Miller,1941-10-26,M,2024-08-18,F41.1,Office Visit,Dr. F. Weiss
+EHR-000333,MRN100186,Richard,Miller,1941-10-26,M,2024-10-12,E78.5,Office Visit,Dr. G. Okafor
+EHR-000334,MRN100187,Patricia,Martinez,1996-05-21,M,2023-08-12,N18.3,Urgent Care,Dr. C. Patel
+EHR-000335,MRN100187,Patricia,Martinez,1996-05-21,M,2023-10-18,F41.1,Telehealth,Dr. G. Okafor
+EHR-000336,MRN100187,Patricia,Martinez,1996-05-21,M,2023-12-18,E78.5,Office Visit,Dr. A. Nguyen
+EHR-000337,MRN100188,Betty,Jackson,2005-03-19,M,2023-05-08,E11.9,Urgent Care,Dr. A. Nguyen
+EHR-000338,MRN100188,Betty,Jackson,2005-03-19,M,2023-07-27,N18.3,Annual Physical,Dr. B. Carter
+EHR-000339,MRN100189,Barbara,Moore,1973-06-07,F,2024-11-01,I10,Follow-Up,Dr. A. Nguyen
+EHR-000340,MRN100189,Barbara,Moore,1973-06-07,F,2024-10-02,N18.3,Follow-Up,Dr. D. Ibrahim
+EHR-000341,MRN100190,Robert,Taylor,1993-02-03,F,2023-01-02,I10,Telehealth,Dr. B. Carter
+EHR-000342,MRN100191,James,Wilson,1978-12-23,M,2023-01-10,E78.5,Office Visit,Dr. G. Okafor
+EHR-000343,MRN100191,James,Wilson,1978-12-23,M,2024-12-11,N18.3,Urgent Care,Dr. A. Nguyen
+EHR-000344,MRN100191,James,Wilson,1978-12-23,M,2023-04-16,I10,Follow-Up,Dr. D. Ibrahim
+EHR-000345,MRN100192,Susan,Lopez,1992-01-08,F,2023-03-12,J45.909,Follow-Up,Dr. D. Ibrahim
+EHR-000346,MRN100193,Matthew,Jones,1974-01-26,M,2024-10-05,M54.5,Telehealth,Dr. F. Weiss
+EHR-000347,MRN100193,Matthew,Jones,1974-01-26,M,2023-08-11,E78.5,Office Visit,Dr. E. Flores
+EHR-000348,MRN100194,Lisa,Taylor,1993-05-10,F,2024-03-15,F41.1,Annual Physical,Dr. F. Weiss
+EHR-000349,MRN100194,Lisa,Taylor,1993-05-10,F,2023-09-12,I10,Telehealth,Dr. C. Patel
+EHR-000350,MRN100195,Karen,Moore,2004-06-30,F,2023-07-30,K21.9,Urgent Care,Dr. C. Patel
+EHR-000351,MRN100196,Joseph,Wilson,2000-08-01,F,2024-05-21,M54.5,Telehealth,Dr. A. Nguyen
+EHR-000352,MRN100197,David,Davis,1942-10-10,F,2024-01-05,E11.9,Telehealth,Dr. D. Ibrahim
+EHR-000353,MRN100197,David,Davis,1942-10-10,F,2024-07-13,F41.1,Office Visit,Dr. A. Nguyen
+EHR-000354,MRN100197,David,Davis,1942-10-10,F,2023-03-11,R07.9,Office Visit,Dr. G. Okafor
+EHR-000355,MRN100198,Donald,Anderson,1956-11-16,F,2023-10-21,J06.9,Urgent Care,Dr. D. Ibrahim
+EHR-000356,MRN100198,Donald,Anderson,1956-11-16,F,2023-03-26,N18.3,Follow-Up,Dr. C. Patel
+EHR-000357,MRN100199,Charles,Martin,1994-12-12,F,2023-03-22,K21.9,Follow-Up,Dr. E. Flores
+EHR-000358,MRN100200,David,Smith,1979-05-07,F,2024-08-23,N18.3,Office Visit,Dr. C. Patel
+EHR-000359,MRN100200,David,Smith,1979-05-07,F,2023-09-02,N18.3,Urgent Care,Dr. A. Nguyen
+EHR-000360,MRN100201,Jennifer,Thomas,1954-01-11,F,2024-09-15,R07.9,Follow-Up,Dr. A. Nguyen
+EHR-000361,MRN100201,Jennifer,Thomas,1954-01-11,F,2024-12-25,E11.9,Urgent Care,Dr. C. Patel
+EHR-000362,MRN100202,Betty,Rodriguez,1965-07-14,F,2023-09-23,J06.9,Annual Physical,Dr. F. Weiss
+EHR-000363,MRN100202,Betty,Rodriguez,1965-07-14,F,2023-01-31,I10,Telehealth,Dr. A. Nguyen
+EHR-000364,MRN100202,Betty,Rodriguez,1965-07-14,F,2024-12-30,K21.9,Urgent Care,Dr. D. Ibrahim
+EHR-000365,MRN100203,Donald,Martin,1997-11-27,F,2023-02-26,F41.1,Annual Physical,Dr. B. Carter
+EHR-000366,MRN100203,Donald,Martin,1997-11-27,F,2023-04-16,K21.9,Office Visit,Dr. B. Carter
+EHR-000367,MRN100203,Donald,Martin,1997-11-27,F,2023-01-03,J06.9,Follow-Up,Dr. A. Nguyen
+EHR-000368,MRN100204,Sarah,Smith,1981-05-07,M,2024-01-28,F41.1,Office Visit,Dr. E. Flores
+EHR-000369,MRN100204,Sarah,Smith,1981-05-07,M,2023-08-18,N18.3,Annual Physical,Dr. C. Patel
+EHR-000370,MRN100205,Robert,Davis,1999-08-08,F,2024-01-17,R07.9,Office Visit,Dr. B. Carter
+EHR-000371,MRN100206,Jessica,Moore,2003-01-07,M,2023-02-17,J06.9,Urgent Care,Dr. G. Okafor
+EHR-000372,MRN100207,Matthew,Thomas,1992-12-11,F,2023-12-02,K21.9,Annual Physical,Dr. B. Carter
+EHR-000373,MRN100207,Matthew,Thomas,1992-12-11,F,2024-07-31,K21.9,Follow-Up,Dr. D. Ibrahim
+EHR-000374,MRN100208,Joseph,Smith,1943-05-08,F,2024-05-20,R07.9,Telehealth,Dr. G. Okafor
+EHR-000375,MRN100208,Joseph,Smith,1943-05-08,F,2023-06-04,M54.5,Follow-Up,Dr. E. Flores
+EHR-000376,MRN100209,Linda,Gonzalez,1997-01-23,M,,E11.9,Annual Physical,Dr. A. Nguyen
+EHR-000377,MRN100209,Linda,Gonzalez,1997-01-23,M,2024-06-26,M54.5,Office Visit,Dr. B. Carter
+EHR-000378,MRN100210,Elizabeth,Jackson,1968-02-09,F,2023-02-14,I10,Telehealth,Dr. D. Ibrahim
+EHR-000379,MRN100210,Elizabeth,Jackson,1968-02-09,F,2024-04-14,F41.1,Office Visit,Dr. E. Flores
+EHR-000380,MRN100211,Sarah,Taylor,1965-11-03,F,2023-03-18,N18.3,Follow-Up,Dr. B. Carter
+EHR-000381,MRN100212,Lisa,Moore,1964-09-04,F,2023-11-19,K21.9,Annual Physical,Dr. C. Patel
+EHR-000382,MRN100212,Lisa,Moore,1964-09-04,F,2023-10-06,E78.5,Follow-Up,Dr. G. Okafor
+EHR-000383,MRN100213,Matthew,Anderson,1959-04-22,F,2023-06-09,I10,Annual Physical,Dr. D. Ibrahim
+EHR-000384,MRN100213,Matthew,Anderson,1959-04-22,F,2024-07-02,I10,Urgent Care,Dr. C. Patel
+EHR-000385,MRN100213,Matthew,Anderson,1959-04-22,F,2023-09-29,E78.5,Annual Physical,Dr. G. Okafor
+EHR-000386,MRN100214,William,Davis,1945-10-28,M,2023-08-09,E11.9,Office Visit,Dr. F. Weiss
+EHR-000387,MRN100214,William,Davis,1945-10-28,M,2023-12-31,M54.5,Annual Physical,Dr. C. Patel
+EHR-000388,MRN100214,William,Davis,1945-10-28,M,2023-02-01,J45.909,Telehealth,Dr. F. Weiss
+EHR-000389,MRN100215,David,Brown,2001-08-24,M,2023-04-07,M54.5,Follow-Up,Dr. A. Nguyen
+EHR-000390,MRN100215,David,Brown,2001-08-24,M,2023-03-05,E11.9,Follow-Up,Dr. B. Carter
+EHR-000391,MRN100215,David,Brown,2001-08-24,M,2024-01-17,N18.3,Office Visit,Dr. E. Flores
+EHR-000392,MRN100216,Michael,Miller,2001-04-06,F,2023-03-18,K21.9,Urgent Care,Dr. G. Okafor
+EHR-000393,MRN100216,Michael,Miller,2001-04-06,F,2023-04-05,J45.909,Annual Physical,Dr. A. Nguyen
+EHR-000394,MRN100216,Michael,Miller,2001-04-06,F,2024-04-17,E11.9,Urgent Care,Dr. G. Okafor
+EHR-000395,MRN100217,William,Jackson,2003-03-15,F,2023-01-31,E78.5,Annual Physical,Dr. B. Carter
+EHR-000396,MRN100217,William,Jackson,2003-03-15,F,2023-10-09,J45.909,Office Visit,Dr. E. Flores
+EHR-000397,MRN100218,Patricia,Miller,1961-07-30,M,2023-09-09,R07.9,Telehealth,Dr. D. Ibrahim
+EHR-000398,MRN100218,Patricia,Miller,1961-07-30,M,2023-03-31,E11.9,Follow-Up,Dr. F. Weiss
+EHR-000399,MRN100218,Patricia,Miller,1961-07-30,M,2023-09-13,J06.9,Office Visit,Dr. D. Ibrahim
+EHR-000400,MRN100219,Barbara,Garcia,1962-02-12,M,2024-07-11,E78.5,Telehealth,Dr. E. Flores
+EHR-000401,MRN100219,Barbara,Garcia,1962-02-12,M,2024-02-02,F41.1,Telehealth,Dr. B. Carter
+EHR-000402,MRN100220,Matthew,Moore,1946-05-10,F,2023-03-01,K21.9,Annual Physical,Dr. G. Okafor
+EHR-000403,MRN100221,Mary,Johnson,1984-08-23,F,2023-06-13,M54.5,Annual Physical,Dr. E. Flores
+EHR-000404,MRN100221,Mary,Johnson,1984-08-23,F,2023-08-13,E11.9,Urgent Care,Dr. C. Patel
+EHR-000405,MRN100221,Mary,Johnson,1984-08-23,F,2023-06-30,J45.909,Annual Physical,Dr. E. Flores
+EHR-000406,MRN100222,Matthew,Jones,1992-03-23,F,2024-08-04,F41.1,Follow-Up,Dr. G. Okafor
+EHR-000407,MRN100223,Patricia,Smith,1986-07-02,F,2023-11-13,J06.9,Office Visit,Dr. B. Carter
+EHR-000408,MRN100223,Patricia,Smith,1986-07-02,F,2023-08-13,R07.9,Annual Physical,Dr. E. Flores
+EHR-000409,MRN100224,Jessica,Thomas,1974-07-08,F,2023-12-15,J45.909,Annual Physical,Dr. A. Nguyen
+EHR-000410,MRN100225,Jennifer,Johnson,1957-08-26,F,2024-08-23,J45.909,Office Visit,Dr. G. Okafor
+EHR-000411,MRN100226,Patricia,Williams,1970-12-13,F,2023-03-16,F41.1,Urgent Care,Dr. E. Flores
+EHR-000412,MRN100226,Patricia,Williams,1970-12-13,F,2023-12-11,I10,Follow-Up,Dr. F. Weiss
+EHR-000413,MRN100226,Patricia,Williams,1970-12-13,F,2024-10-16,N18.3,Follow-Up,Dr. F. Weiss
+EHR-000414,MRN100227,Robert,Jackson,1991-06-21,M,2024-01-01,R07.9,Follow-Up,Dr. D. Ibrahim
+EHR-000415,MRN100227,Robert,Jackson,1991-06-21,M,2024-12-06,K21.9,Office Visit,Dr. F. Weiss
+EHR-000416,MRN100227,Robert,Jackson,1991-06-21,M,2024-02-05,R07.9,Telehealth,Dr. A. Nguyen
+EHR-000417,MRN100228,John,Jones,1985-06-30,F,2023-11-22,R07.9,Follow-Up,Dr. F. Weiss
+EHR-000418,MRN100229,Robert,Davis,1945-08-17,F,2024-05-23,I10,Follow-Up,Dr. C. Patel
+EHR-000419,MRN100229,Robert,Davis,1945-08-17,F,2023-06-21,F41.1,Annual Physical,Dr. D. Ibrahim
+EHR-000420,MRN100229,Robert,Davis,1945-08-17,F,2023-09-29,E11.9,Annual Physical,Dr. C. Patel
+EHR-000421,MRN100230,Karen,Martin,2005-12-09,M,2023-02-19,E11.9,Follow-Up,Dr. D. Ibrahim
+EHR-000422,MRN100231,Anthony,Taylor,1969-02-15,F,2023-12-26,N18.3,Urgent Care,Dr. G. Okafor
+EHR-000423,MRN100231,Anthony,Taylor,1969-02-15,F,2024-10-28,R07.9,Urgent Care,Dr. A. Nguyen
+EHR-000424,MRN100232,Sandra,Anderson,1961-09-04,F,2023-01-21,K21.9,Office Visit,Dr. C. Patel
+EHR-000425,MRN100233,Elizabeth,Jackson,1990-09-18,M,2023-06-14,N18.3,Office Visit,Dr. C. Patel
+EHR-000426,MRN100234,Karen,Brown,2003-06-06,M,2024-05-09,R07.9,Follow-Up,Dr. E. Flores
+EHR-000427,MRN100234,Karen,Brown,2003-06-06,M,2023-06-10,N18.3,Follow-Up,Dr. D. Ibrahim
+EHR-000428,MRN100234,Karen,Brown,2003-06-06,M,2024-07-07,J06.9,Follow-Up,Dr. A. Nguyen
+EHR-000429,MRN100235,Daniel,Miller,1958-09-28,M,2024-08-08,N18.3,Office Visit,Dr. C. Patel
+EHR-000430,MRN100236,Jennifer,Davis,1950-08-05,M,2023-03-31,N18.3,Telehealth,Dr. D. Ibrahim
+EHR-000431,MRN100237,Jennifer,Smith,1971-08-26,F,2023-01-27,I10,Office Visit,Dr. D. Ibrahim
+EHR-000432,MRN100238,Matthew,Martin,1977-02-27,F,2024-02-12,K21.9,Annual Physical,Dr. A. Nguyen
+EHR-000433,MRN100239,Mary,Davis,1960-11-05,F,2023-07-09,N18.3,Follow-Up,Dr. D. Ibrahim
+EHR-000434,MRN100239,Mary,Davis,1960-11-05,F,2023-09-27,E11.9,Annual Physical,Dr. E. Flores
+EHR-000435,MRN100239,Mary,Davis,1960-11-05,F,2023-06-04,E11.9,Office Visit,Dr. F. Weiss
+EHR-000436,MRN100240,Matthew,Anderson,1941-05-21,M,2024-02-28,J06.9,Telehealth,Dr. A. Nguyen
+EHR-000437,MRN100240,Matthew,Anderson,1941-05-21,M,2024-06-19,N18.3,Urgent Care,Dr. E. Flores
+EHR-000438,MRN100241,Sandra,Rodriguez,2005-09-05,M,2023-11-03,E78.5,Office Visit,Dr. E. Flores
+EHR-000439,MRN100242,Susan,Brown,1983-11-09,M,2024-08-08,J06.9,Office Visit,Dr. G. Okafor
+EHR-000440,MRN100242,Susan,Brown,1983-11-09,M,2023-06-27,E78.5,Follow-Up,Dr. G. Okafor
+EHR-000441,MRN100242,Susan,Brown,1983-11-09,M,2023-05-10,M54.5,Urgent Care,Dr. B. Carter
+EHR-000442,MRN100243,Daniel,Jones,1958-10-31,M,2023-09-22,R07.9,Office Visit,Dr. A. Nguyen
+EHR-000443,MRN100244,Robert,Johnson,1949-11-19,F,2024-02-11,J06.9,Telehealth,Dr. D. Ibrahim
+EHR-000444,MRN100244,Robert,Johnson,1949-11-19,F,2024-12-18,E11.9,Urgent Care,Dr. A. Nguyen
+EHR-000445,MRN100245,Karen,Jackson,1960-11-22,F,2023-06-01,J45.909,Office Visit,Dr. A. Nguyen
+EHR-000446,MRN100245,Karen,Jackson,1960-11-22,F,2023-04-14,R07.9,Annual Physical,Dr. D. Ibrahim
+EHR-000447,MRN100246,Patricia,Anderson,1996-10-13,F,2024-11-01,N18.3,Office Visit,Dr. B. Carter
+EHR-000448,MRN100246,Patricia,Anderson,1996-10-13,F,2024-02-17,K21.9,Urgent Care,Dr. A. Nguyen
+EHR-000449,MRN100247,Matthew,Gonzalez,1959-06-04,F,2024-12-08,F41.1,Annual Physical,Dr. C. Patel
+EHR-000450,MRN100247,Matthew,Gonzalez,1959-06-04,F,2023-12-12,E11.9,Annual Physical,Dr. G. Okafor
+EHR-000451,MRN100248,Joseph,Williams,1988-08-26,M,2023-08-22,I10,Urgent Care,Dr. G. Okafor
+EHR-000452,MRN100248,Joseph,Williams,1988-08-26,M,2023-10-03,F41.1,Office Visit,Dr. B. Carter
+EHR-000453,MRN100249,Donald,Wilson,2000-11-24,F,2024-02-21,M54.5,Annual Physical,Dr. G. Okafor
+EHR-000454,MRN100249,Donald,Wilson,2000-11-24,F,2024-06-11,E11.9,Telehealth,Dr. D. Ibrahim
+EHR-000455,MRN100250,Karen,Rodriguez,1937-04-27,M,2024-08-05,J06.9,Follow-Up,Dr. G. Okafor
+EHR-000456,MRN100251,Linda,Jackson,1987-09-03,M,2023-02-03,M54.5,Follow-Up,Dr. C. Patel
+EHR-000457,MRN100252,Anthony,Rodriguez,1986-09-12,M,2024-06-01,E78.5,Office Visit,Dr. B. Carter
+EHR-000458,MRN100252,Anthony,Rodriguez,1986-09-12,M,2024-05-15,F41.1,Urgent Care,Dr. E. Flores
+EHR-000459,MRN100253,Anthony,Garcia,1977-03-18,F,2023-12-19,F41.1,Office Visit,Dr. C. Patel
+EHR-000460,MRN100253,Anthony,Garcia,1977-03-18,F,2024-01-31,E11.9,Follow-Up,Dr. G. Okafor
+EHR-000461,MRN100253,Anthony,Garcia,1977-03-18,F,2024-10-24,M54.5,Urgent Care,Dr. E. Flores
+EHR-000462,MRN100254,Sandra,Rodriguez,1951-04-14,F,2024-04-30,E11.9,Telehealth,Dr. G. Okafor
+EHR-000463,MRN100255,Daniel,Thomas,1943-03-09,F,2023-09-16,M54.5,Annual Physical,Dr. D. Ibrahim
+EHR-000464,MRN100256,Barbara,Wilson,1964-11-25,F,2024-04-15,F41.1,Telehealth,Dr. G. Okafor
+EHR-000465,MRN100256,Barbara,Wilson,1964-11-25,F,2024-02-11,R07.9,Annual Physical,Dr. E. Flores
+EHR-000466,MRN100257,Nancy,Brown,1949-06-05,F,2023-10-17,R07.9,Office Visit,Dr. C. Patel
+EHR-000467,MRN100257,Nancy,Brown,1949-06-05,F,2024-10-17,K21.9,Annual Physical,Dr. B. Carter
+EHR-000468,MRN100257,Nancy,Brown,1949-06-05,F,2024-06-13,J45.909,Telehealth,Dr. D. Ibrahim
+EHR-000469,MRN100258,Susan,Thomas,1960-11-09,F,2023-01-27,J45.909,Annual Physical,Dr. D. Ibrahim
+EHR-000470,MRN100258,Susan,Thomas,1960-11-09,F,2024-02-02,N18.3,Telehealth,Dr. G. Okafor
+EHR-000471,MRN100259,Mark,Moore,1938-04-17,F,2024-12-31,F41.1,Urgent Care,Dr. F. Weiss
+EHR-000472,MRN100260,Robert,Hernandez,1957-08-23,F,2023-11-04,J06.9,Telehealth,Dr. B. Carter
+EHR-000473,MRN100260,Robert,Hernandez,1957-08-23,F,2023-04-10,K21.9,Telehealth,Dr. G. Okafor
